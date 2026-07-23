@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://damvo.github.io/editions-non-dit/sitemap.xml
